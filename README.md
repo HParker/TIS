@@ -1,6 +1,8 @@
 # TIS
 
-This is the project submitted to 
+![TIS Screenshot](/images/TIS.png)
+
+This is the project submitted to
 [The Invoca Hackathon](http://blog.invoca.com/developers-working-weekend-recap-invoca-hackathon/)
 winning the prize for best use of functional programming.
 
