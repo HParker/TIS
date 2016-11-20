@@ -1,4 +1,4 @@
-# TIS
+# TIS [demo](http://hparker.github.io/tis)
 
 ![TIS Screenshot](/images/TIS.png)
 
