@@ -19,4 +19,4 @@ The available commands are
 | SWP | Swap the values of ACC to BAK                                      | SWP          |
 | ADD | Add                                                                | ADD LEFT     |
 
-All feedback is appriciated.
+All feedback is appreciated.
